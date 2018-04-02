@@ -18,3 +18,7 @@ tensorflow 1.7
 CUDA 9.0
 
 cuDNN 7
+
+## Using fully-connected neural network
+
+## Using convolutional neural network
