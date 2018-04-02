@@ -19,10 +19,10 @@ CUDA 9.0
 
 cuDNN 7
 
-## Using fully-connected neural network
+## Using Fully-connected Neural Network
 
 MNIST/src/mnist_fc.ipynb
 
-## Using convolutional neural network
+## Using Convolutional Neural Network
 
 MNIST/src/mnist_cnn.ipynb
