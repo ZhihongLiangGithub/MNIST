@@ -1,6 +1,6 @@
 # MNIST
 
-A simple practice on classifying MNIST dataset using tensorflow
+A simple practice on classifying MNIST dataset using tensorflow layers API
 
 ## Dataset
 The original dataset can be found in: 
