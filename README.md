@@ -21,8 +21,8 @@ cuDNN 7
 
 ## Using Fully-connected Neural Network
 
-MNIST/src/mnist_fc.ipynb
+[MNIST/src/mnist_fc.ipynb](https://github.com/ZhihongLiangGithub/MNIST/blob/master/src/mnist_fc.ipynb)
 
 ## Using Convolutional Neural Network
 
-MNIST/src/mnist_cnn.ipynb
+[MNIST/src/mnist_cnn.ipynb](https://github.com/ZhihongLiangGithub/MNIST/blob/master/src/mnist_cnn.ipynb)
